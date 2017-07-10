@@ -967,10 +967,13 @@
 		line-height: 30px;
 	}
 	.tg-counter h3 {
-		font-size: 18px;
+		font-size: 10px;
 		margin:0 0 20px;
 		line-height: 18px;
 	}
+	.tg-counterholder{
+		padding:65px 0;
+	}	
 	.tg-statisticicon {
 		font-size: 40px;
 		line-height: 40px;
